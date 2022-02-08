@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sameer
 - 👀 I’m interested in anything to do with technology.
-- 🌱 I’m currently learning Reative Programming in Java and cloud native Java farmework Quarkus.
+- 🌱 I’m currently learning Reative Programming in Java and cloud native Java framework Quarkus.
 - 💞️ I’m looking to collaborate on Java projects.
 - 📫 How to reach me? f0jppwy40@mozmail.com
 
